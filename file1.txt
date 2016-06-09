@@ -1,3 +1,6 @@
 this is line one
 secound lines are cool
+<<<<<<< HEAD
 changes 9-16
+=======
+thirs lines might be better
